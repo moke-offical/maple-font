@@ -34,8 +34,10 @@
     "enable": true,
     "version": "3.3.0",
     "mono": true,
-    "use_font_patcher": true,
-    "glyphs": [],
+    "use_font_patcher": false,
+    "glyphs": [
+      "--compile"
+    ],
     "extra_args": []
   },
   "cn": {
